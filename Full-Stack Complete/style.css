@@ -18,9 +18,9 @@ body{
 .box1{
     height: 100px;
     width: 100px;
-    background-color: pink;
     margin-top: 10px;
     text-align: center;
+    background-image: url(bird-8788491_1280.webp);
 }
 .box2{
     height: 100px;
