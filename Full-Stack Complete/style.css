@@ -1,0 +1,39 @@
+#first{
+    background-color: aqua;
+}
+
+#second{
+    background-color: aquamarine;
+}
+button{
+    background-color: blueviolet;
+    font-style: italic;
+    color: azure;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+.box1{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    margin-top: 10px;
+    text-align: center;
+}
+.box2{
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    background-color: greenyellow;
+    text-align: center;
+    
+}
+.box3{
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    background-color: red;
+    text-align: center;
+}
